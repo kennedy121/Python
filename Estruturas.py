@@ -6,8 +6,8 @@ numero2 = 2
 if numero1 > numero2:
     print("O número 1 é maior que o número 2") 
 else:
-    print("O número 2 é maior que o número 1")
 
+    print("O número 2 é maior que o número 1")
 # Estrutura Condicional Aninhada
 soma = 1 
 
